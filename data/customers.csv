@@ -1,0 +1,11 @@
+customer_id,msisdn,gender,age,customer_type,segment,region,activation_date,status
+CUST001,971500000001,F,28,Prepaid,Premium,Abu Dhabi,2024-01-15,Active
+CUST002,971500000002,M,35,Prepaid,Standard,Dubai,2024-02-20,Active
+CUST003,971500000003,F,42,Prepaid,Value,Sharjah,2024-03-10,Active
+CUST004,971500000004,M,31,Prepaid,Premium,Abu Dhabi,2024-04-05,Active
+CUST005,971500000005,F,26,Prepaid,Standard,Dubai,2024-05-18,Active
+CUST006,971500000006,M,45,Prepaid,Value,Ajman,2024-06-12,Inactive
+CUST007,971500000007,F,33,Prepaid,Premium,Sharjah,2024-07-22,Active
+CUST008,971500000008,M,29,Prepaid,Standard,Abu Dhabi,2024-08-14,Active
+CUST009,971500000009,F,38,Prepaid,Value,Dubai,2024-09-09,Active
+CUST010,971500000010,M,41,Prepaid,Premium,Abu Dhabi,2024-10-25,Active

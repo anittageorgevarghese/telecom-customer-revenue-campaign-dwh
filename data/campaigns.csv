@@ -1,0 +1,6 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,target_segment,channel,status
+CAMP001,Weekend Data Offer,Data,2026-01-01,2026-01-31,Premium,SMS,Completed
+CAMP002,Recharge Bonus,Recharge,2026-02-01,2026-02-28,Standard,SMS,Completed
+CAMP003,Voice Bundle Offer,Voice,2026-03-01,2026-03-31,Value,USSD,Completed
+CAMP004,30 Day Internet Pack,Data,2026-04-01,2026-04-30,Premium,App,Completed
+CAMP005,Festival Recharge Offer,Recharge,2026-05-01,2026-05-31,Standard,SMS,Active
